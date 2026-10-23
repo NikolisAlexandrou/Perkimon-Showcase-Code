@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/MainGame/Scenes/FirstTown.unity
+    guid: f3397133251a35849ab916117b320eec
+  - enabled: 0
+    path: Assets/MainGame/Scenes/Route2.unity
+    guid: d9223fd9d02ceb946b45dbcf59d15c6d
+  - enabled: 1
+    path: Assets/MainGame/Scenes/DemoScenes/DemoScene.unity
+    guid: 40c7c0fc100161d48aface8922adafc2
+  - enabled: 1
+    path: Assets/MainGame/Scenes/DemoScenes/DemoScene2.unity
+    guid: 644792007052f1442bba68c01934fe7d
+  - enabled: 1
+    path: Assets/MainGame/Scenes/AlwaysActive.unity
+    guid: 541f5df87d06b1645ab78f69cb7f5ba0
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
